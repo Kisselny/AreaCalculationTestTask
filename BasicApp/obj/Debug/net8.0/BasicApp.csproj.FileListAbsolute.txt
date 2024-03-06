@@ -1,0 +1,15 @@
+E:\Repos\AreaCalculationTestTask\BasicApp\bin\Debug\net8.0\BasicApp.exe
+E:\Repos\AreaCalculationTestTask\BasicApp\bin\Debug\net8.0\BasicApp.deps.json
+E:\Repos\AreaCalculationTestTask\BasicApp\bin\Debug\net8.0\BasicApp.runtimeconfig.json
+E:\Repos\AreaCalculationTestTask\BasicApp\bin\Debug\net8.0\BasicApp.dll
+E:\Repos\AreaCalculationTestTask\BasicApp\bin\Debug\net8.0\BasicApp.pdb
+E:\Repos\AreaCalculationTestTask\BasicApp\obj\Debug\net8.0\BasicApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\AreaCalculationTestTask\BasicApp\obj\Debug\net8.0\BasicApp.AssemblyInfoInputs.cache
+E:\Repos\AreaCalculationTestTask\BasicApp\obj\Debug\net8.0\BasicApp.AssemblyInfo.cs
+E:\Repos\AreaCalculationTestTask\BasicApp\obj\Debug\net8.0\BasicApp.csproj.CoreCompileInputs.cache
+E:\Repos\AreaCalculationTestTask\BasicApp\obj\Debug\net8.0\BasicApp.sourcelink.json
+E:\Repos\AreaCalculationTestTask\BasicApp\obj\Debug\net8.0\BasicApp.dll
+E:\Repos\AreaCalculationTestTask\BasicApp\obj\Debug\net8.0\refint\BasicApp.dll
+E:\Repos\AreaCalculationTestTask\BasicApp\obj\Debug\net8.0\BasicApp.pdb
+E:\Repos\AreaCalculationTestTask\BasicApp\obj\Debug\net8.0\BasicApp.genruntimeconfig.cache
+E:\Repos\AreaCalculationTestTask\BasicApp\obj\Debug\net8.0\ref\BasicApp.dll
