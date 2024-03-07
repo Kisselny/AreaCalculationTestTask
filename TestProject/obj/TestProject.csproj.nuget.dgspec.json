@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Repos\\AreaCalculationTestTask\\TestProject\\TestProject.csproj": {}
+    "/Users/admin/Documents/Repos/AreaCalculationTestTask/TestProject/TestProject.csproj": {}
   },
   "projects": {
-    "E:\\Repos\\AreaCalculationTestTask\\AreaCalcLib\\AreaCalcLib.csproj": {
+    "/Users/admin/Documents/Repos/AreaCalculationTestTask/AreaCalcLib/AreaCalcLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Repos\\AreaCalculationTestTask\\AreaCalcLib\\AreaCalcLib.csproj",
+        "projectUniqueName": "/Users/admin/Documents/Repos/AreaCalculationTestTask/AreaCalcLib/AreaCalcLib.csproj",
         "projectName": "AreaCalcLib",
-        "projectPath": "E:\\Repos\\AreaCalculationTestTask\\AreaCalcLib\\AreaCalcLib.csproj",
-        "packagesPath": "C:\\Users\\NFall\\.nuget\\packages\\",
-        "outputPath": "E:\\Repos\\AreaCalculationTestTask\\AreaCalcLib\\obj\\",
+        "projectPath": "/Users/admin/Documents/Repos/AreaCalculationTestTask/AreaCalcLib/AreaCalcLib.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/Documents/Repos/AreaCalculationTestTask/AreaCalcLib/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\NFall\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/admin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,41 +53,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Repos\\AreaCalculationTestTask\\TestProject\\TestProject.csproj": {
+    "/Users/admin/Documents/Repos/AreaCalculationTestTask/TestProject/TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Repos\\AreaCalculationTestTask\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "/Users/admin/Documents/Repos/AreaCalculationTestTask/TestProject/TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "E:\\Repos\\AreaCalculationTestTask\\TestProject\\TestProject.csproj",
-        "packagesPath": "C:\\Users\\NFall\\.nuget\\packages\\",
-        "outputPath": "E:\\Repos\\AreaCalculationTestTask\\TestProject\\obj\\",
+        "projectPath": "/Users/admin/Documents/Repos/AreaCalculationTestTask/TestProject/TestProject.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/Documents/Repos/AreaCalculationTestTask/TestProject/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\NFall\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/admin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Repos\\AreaCalculationTestTask\\AreaCalcLib\\AreaCalcLib.csproj": {
-                "projectPath": "E:\\Repos\\AreaCalculationTestTask\\AreaCalcLib\\AreaCalcLib.csproj"
+              "/Users/admin/Documents/Repos/AreaCalculationTestTask/AreaCalcLib/AreaCalcLib.csproj": {
+                "projectPath": "/Users/admin/Documents/Repos/AreaCalculationTestTask/AreaCalcLib/AreaCalcLib.csproj"
               }
             }
           }
@@ -142,7 +128,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

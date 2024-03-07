@@ -1,0 +1,12 @@
+/Users/admin/Documents/Repos/AreaCalculationTestTask/AreaCalcLib/bin/Debug/net8.0/AreaCalcLib.deps.json
+/Users/admin/Documents/Repos/AreaCalculationTestTask/AreaCalcLib/bin/Debug/net8.0/AreaCalcLib.dll
+/Users/admin/Documents/Repos/AreaCalculationTestTask/AreaCalcLib/bin/Debug/net8.0/AreaCalcLib.pdb
+/Users/admin/Documents/Repos/AreaCalculationTestTask/AreaCalcLib/obj/Debug/net8.0/AreaCalcLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/Repos/AreaCalculationTestTask/AreaCalcLib/obj/Debug/net8.0/AreaCalcLib.AssemblyInfoInputs.cache
+/Users/admin/Documents/Repos/AreaCalculationTestTask/AreaCalcLib/obj/Debug/net8.0/AreaCalcLib.AssemblyInfo.cs
+/Users/admin/Documents/Repos/AreaCalculationTestTask/AreaCalcLib/obj/Debug/net8.0/AreaCalcLib.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/Repos/AreaCalculationTestTask/AreaCalcLib/obj/Debug/net8.0/AreaCalcLib.sourcelink.json
+/Users/admin/Documents/Repos/AreaCalculationTestTask/AreaCalcLib/obj/Debug/net8.0/AreaCalcLib.dll
+/Users/admin/Documents/Repos/AreaCalculationTestTask/AreaCalcLib/obj/Debug/net8.0/refint/AreaCalcLib.dll
+/Users/admin/Documents/Repos/AreaCalculationTestTask/AreaCalcLib/obj/Debug/net8.0/AreaCalcLib.pdb
+/Users/admin/Documents/Repos/AreaCalculationTestTask/AreaCalcLib/obj/Debug/net8.0/ref/AreaCalcLib.dll
