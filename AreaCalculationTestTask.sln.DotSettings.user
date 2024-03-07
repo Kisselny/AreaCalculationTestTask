@@ -1,11 +1,14 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=642725d8_002D5b16_002D43bf_002Dbe42_002D194bab060217/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CircleTestMethod4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;MSTest::AA46F562-0F65-4AAF-BAD2-7956741EAE9F::net8.0::TestProject.TestClass.CircleTestMethod4&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
+	<s:Boolean x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/ShowAdvancedOptions/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=AA46F562_002D0F65_002D4AAF_002DBAD2_002D7956741EAE9F/@EntryIndexedValue">AA46F562-0F65-4AAF-BAD2-7956741EAE9F</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestTemplateMapping/=MSTest/@EntryIndexedValue">d6790ab7-33c2-4425-b2c9-51480cd1a852</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=642725d8_002D5b16_002D43bf_002Dbe42_002D194bab060217/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CircleTestMethod4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::73963985-96C6-4AF2-AAE5-E4252FEF0D8F::net8.0::TestProject1.UnitTest1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ed73cd5d_002Ddc26_002D40e2_002D9eb3_002D3522e5863d7f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CircleTest1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;MSTest::AA46F562-0F65-4AAF-BAD2-7956741EAE9F::net8.0::TestProject.TestClass.CircleTestMethod4&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ed73cd5d_002Ddc26_002D40e2_002D9eb3_002D3522e5863d7f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CircleTest1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::AA46F562-0F65-4AAF-BAD2-7956741EAE9F::net8.0::TestProject.TestClass.CircleTestMethod4&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

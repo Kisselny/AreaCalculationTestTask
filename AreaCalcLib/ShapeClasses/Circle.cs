@@ -7,8 +7,8 @@ namespace AreaCalcLib;
 /// Use it to create Circle objects (you need to provide
 /// radius to the constructor) and access its Area property,
 /// or call the CalculateArea method to get the area value statically.
-/// It uses PI value approximated
-/// to 10 digits after dot (3.1415926535).
+/// It uses PI value approximated to 10 digits after dot (3.1415926535).
+/// The ares is rounded to 5 decimal digits.
 /// </summary>
 public class Circle : IAreaCalculation
 {
@@ -31,13 +31,14 @@ public class Circle : IAreaCalculation
     
     /// <summary>
     /// This method calculates circle's area using its radius value.
+    /// The result is rounded to 5 decimal digits
     /// </summary>
     /// <param name="radius">Radius value</param>
     /// <returns></returns>
     public static double CalculateArea(double radius)
     {
         double circleArea = radius * radius * _pi;
-        return Math.Round(circleArea, 10);
+        return Math.Round(circleArea, 5);
     }
     
 }

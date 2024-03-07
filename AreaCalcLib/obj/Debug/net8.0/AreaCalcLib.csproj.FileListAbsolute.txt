@@ -10,3 +10,15 @@
 /Users/admin/Documents/Repos/AreaCalculationTestTask/AreaCalcLib/obj/Debug/net8.0/refint/AreaCalcLib.dll
 /Users/admin/Documents/Repos/AreaCalculationTestTask/AreaCalcLib/obj/Debug/net8.0/AreaCalcLib.pdb
 /Users/admin/Documents/Repos/AreaCalculationTestTask/AreaCalcLib/obj/Debug/net8.0/ref/AreaCalcLib.dll
+E:\Repos\AreaCalculationTestTask\AreaCalcLib\bin\Debug\net8.0\AreaCalcLib.deps.json
+E:\Repos\AreaCalculationTestTask\AreaCalcLib\bin\Debug\net8.0\AreaCalcLib.dll
+E:\Repos\AreaCalculationTestTask\AreaCalcLib\bin\Debug\net8.0\AreaCalcLib.pdb
+E:\Repos\AreaCalculationTestTask\AreaCalcLib\obj\Debug\net8.0\AreaCalcLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\AreaCalculationTestTask\AreaCalcLib\obj\Debug\net8.0\AreaCalcLib.AssemblyInfoInputs.cache
+E:\Repos\AreaCalculationTestTask\AreaCalcLib\obj\Debug\net8.0\AreaCalcLib.AssemblyInfo.cs
+E:\Repos\AreaCalculationTestTask\AreaCalcLib\obj\Debug\net8.0\AreaCalcLib.csproj.CoreCompileInputs.cache
+E:\Repos\AreaCalculationTestTask\AreaCalcLib\obj\Debug\net8.0\AreaCalcLib.sourcelink.json
+E:\Repos\AreaCalculationTestTask\AreaCalcLib\obj\Debug\net8.0\AreaCalcLib.dll
+E:\Repos\AreaCalculationTestTask\AreaCalcLib\obj\Debug\net8.0\refint\AreaCalcLib.dll
+E:\Repos\AreaCalculationTestTask\AreaCalcLib\obj\Debug\net8.0\AreaCalcLib.pdb
+E:\Repos\AreaCalculationTestTask\AreaCalcLib\obj\Debug\net8.0\ref\AreaCalcLib.dll
